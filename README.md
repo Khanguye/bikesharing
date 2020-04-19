@@ -6,7 +6,7 @@
 
 ### Summary 
 
-A bicycle-sharing system is a service in which people can rent a bicycle for short-time period. The bike share system is now more popular for people in living or working in the metropolis downtowns only in United States, but also around the world. The bike share is a trend and an opportunity that local city governments want to support and to invite business organizations to do business because the bike share brings to many good benefits such as: to reduce Carbon Dioxin, traffic, and accident as well as  to promote public health. Citi bike, one of bicycle share service in New York city, is a successful running business in the Great Manhattan Downtown New York. We will use the data of Citi bike in New York to analyze if it is good to open a bike share in Des Moines downtown, Iowa. We will look in the gender diversity to do our data analysis.
+A bicycle-sharing system is a service in which people can rent a bicycle for short-time period. The bike share system is now more popular for people in living or working in the metropolis downtowns not only in United States, but also around the world. The bike share is a trend and an opportunity that local city governments want to support and to invite business organizations to do business because the bike share brings to many good benefits such as: to reduce Carbon Dioxin, traffic, and accident as well as  to promote public health. Citi bike, one of bicycle share service in New York city, is a successful running business in the Great Manhattan Downtown New York. We will use the data of Citi bike in New York to analyze if it is good to open a bike share in Des Moines downtown, Iowa. We will look in the gender diversity to do our data analysis.
 
 ### Introduction
 
