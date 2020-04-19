@@ -20,7 +20,7 @@ A bicycle-sharing system is a service in which people can rent a bicycle for sho
 
 2.	However, if we look at the percent numbers, then we find out that both cities are the same characters of population, genders, and income age. So, it should be a good candidate city for the bike share business.
 
-The picture below the census table shows more features of New York and Des Moines. This is from datausa.io website [https://datausa.io/profile/geo/des-moines-ia/?compare=new-york-ny#demographics](https://datausa.io/profile/geo/des-moines-ia/?compare=new-york-ny#demographics) . If you are interested to learn more the facts of Des Moines, then just follow the link.
+The picture below the census table shows more features of New York and Des Moines. This is from datausa.io website [https://datausa.io/profile/geo/des-moines-ia/?compare=new-york-ny#demographics](https://datausa.io/profile/geo/des-moines-ia/?compare=new-york-ny#demographics) . If you are interested in learning more the facts of Des Moines, then just follow the link.
 
 - The sky view geography of the two cities [https://google.com/maps](https://google.com/maps). This gave a general idea about the business central locations
 
