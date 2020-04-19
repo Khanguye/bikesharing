@@ -36,7 +36,7 @@ Let us start to do data analysis of Citibike data August 2019 of New York. The A
 
 The total numbers of bike share rides were checked out from station is 2.3 million while the male gender check-out ratio is 65.28% (1.5 million) and the female is 25% (0.5 million). We should disregard the unknown gender for now because we are only considered male and female genders. We need to break these numbers down because New York is a major tourist spot. 
 
-1. Customer type: Short-term customers. They can be tourist people or local people who does not a long-term membership. The Customers by Genders Pie chart has about 0.44 million. It is about one sixth of the total rides. However, this number may not consistent month to month because it depends on tourist seasons.
+1. Customer type: Short-term customers. They can be tourist people or local people who does not need a long-term membership. The Customers by Genders Pie chart has about 0.44 million. It is about one sixth of the total rides. However, this number may not consistent month to month because it depends on tourist seasons.
 
 2. Subscriber type: Long-term customers. They are local people who need to often use the bike share service. We need to investigate this type breakdown because it is truly customer type of the business. The Subscribers by Genders Pie chart has about 1.9 million subscribers. It is about five sixth of the total rides. The percent of male rides is 72.23% and female is 25.98%. If we convert the percent numbers for Moines, then 77,063 possible rides are for male gender, 28,619 possible rides are for female gender and total possible rides is 105,682. This number compare to Population of Des Moines is about 50% or 1 in 2 people might use the service one in a month.
 
