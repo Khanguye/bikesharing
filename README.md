@@ -1,6 +1,6 @@
 # NYC Citi Bike Analysis 
 
-### Tableu Public URL
+### Tableau Public URL
 
 [CitiBike Dashboard](https://public.tableau.com/profile/kha.t.nguyen#!/vizhome/Citibikes_15872526301380/Challenge14)
 
