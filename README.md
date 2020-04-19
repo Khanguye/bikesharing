@@ -12,7 +12,7 @@ A bicycle-sharing system is a service in which people can rent a bicycle for sho
 
 - The collection information of Census Information in 2018 from census government website [https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa/PST045219](https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa/PST045219) and [https://www.catchdesmoines.com/things-to-do/](https://www.catchdesmoines.com/things-to-do/)
 
-![NY_DesMoines](U.S.%20Census%20Bureau%20QuickFacts_%20New York%20city,%20New%20York;%20Des%20Moines%20city,%20Iowa.png)
+![NY_DesMoines](U.S.%20Census%20Bureau%20QuickFacts_%20New%20York%20city%2C%20New%20York%3B%20Des%20Moines%20city%2C%20Iowa.png)
 
 ![Slice_1.png](Slice_1.png)
 
@@ -53,7 +53,7 @@ The previous chart peaks of both genders around age 30 and 31. Male is the peak 
 
 ### Where are they biking of both genders and Age (next two slices) 
 
-![Slice_6.png](Slice_7.png)
+![Slice_6.png](Slice_6.png)
 
 ![Slice_7.png](Slice_7.png)
 
