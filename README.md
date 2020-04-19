@@ -18,7 +18,7 @@ A bicycle-sharing system is a service in which people can rent a bicycle for sho
 
 1.	Let us Look at the numbers. New York population is about 8.4 million, male is about 4.0 million, and female is about 4.4 million. Income age (18-65) is about 5.5 million While Des Moines is much less in population about 0.2 million, male and female are respectively about 0.1 million and 0.1 million. And income age (18-65) is about 0.14 million. These numbers are so different to do a comparation between two cities because New York is a major metropolis city in the world and Des Moines is a regular city like other cities in the United States
 
-2.	However, if we look at the percent numbers, then we find out that both cities are the same characters of population, genders, and income age. So, it should be a good candidate city for business.
+2.	However, if we look at the percent numbers, then we find out that both cities are the same characters of population, genders, and income age. So, it should be a good candidate city for the bike share business.
 The graph pictures of two downtowns displays some facts about each city. This is from datausa.io website [https://datausa.io/profile/geo/des-moines-ia/?compare=new-york-ny#demographics](https://datausa.io/profile/geo/des-moines-ia/?compare=new-york-ny#demographics) . If you are interested to learn more the facts of Des Moines, then just follow the link.
 
 - The sky view geography of the two cities [https://google.com/maps](https://google.com/maps). This gave a general idea about the business central locations
